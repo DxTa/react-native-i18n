@@ -12,7 +12,7 @@ android {
   buildToolsVersion _buildToolsVersion
 
   defaultConfig {
-    minSdkVersion _minSdkVersion
+    // minSdkVersion _minSdkVersion
     targetSdkVersion _targetSdkVersion
   }
 
